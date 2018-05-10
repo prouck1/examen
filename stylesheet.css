@@ -1,0 +1,38 @@
+h1 {
+	background-color:  	#F0FFFF
+}
+
+	#navbar {
+	position: fixed;
+	overflow:10px;
+	left:50%;
+	margin-left:-254px;
+}
+
+#header {
+	position: center;
+	top: -10px;
+	background-color: #3c4543;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
+}
+
+li {
+	display: inline;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	padding: 10px;
+	
+	background-color:  	#D3D3D3
+}
+
+#left{
+	width: 45%;
+	float: left;
+}
